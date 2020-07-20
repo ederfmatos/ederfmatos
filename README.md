@@ -6,8 +6,13 @@
 </br>
 
 <div style="display: flex;">
-  <img src="https://img.shields.io/badge/-ederfmatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ederfmatos/"/>
-  <img src="https://img.shields.io/badge/-ederfmatos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederfmatos@gmail.com"/>
+  <a href="https://www.linkedin.com/in/ederfmatos/">
+    <img src="https://img.shields.io/badge/-ederfmatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ederfmatos/"/>
+  </a>
+  
+  <a href="mailto:ederfmatos@gmail.com/">
+    <img src="https://img.shields.io/badge/-ederfmatos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederfmatos@gmail.com"/>
+  </a>
 </div>
 
 <h4>👱 Fullname: <span>Eder Ferreira de Matos</span> </h4>
