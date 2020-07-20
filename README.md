@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2>Eder Matos 
 
-<!--
-**ederfmatos/ederfmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif' width='200"'>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-ederfmatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ederfmatos/)](https://www.linkedin.com/in/ederfmatos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-ederfmatos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederfmatos@gmail.com)](mailto:ederfmatos@gmail.com)
+
+👱 Fullname: Eder Ferreira de Matos </br>
+🏙️ City: Guariba SP </br>
+💻 Work: Exactaworks </br>
+🏫 College: Fatec Taquaritinga </br>
+
+## ⚡ Technologies
+Talk to me about
+- Backend development using **Java, Spring Boot**
+- Front-end development using **HTML, Javascript,ReactJS**
+- Mobile application development using **Android and React Native**
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ederfmatos&hide=["issues"]&show_icons=true)
