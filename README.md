@@ -15,10 +15,12 @@
 <h4>💻 Work: <span>Exactaworks</span> </h4>
 <h4>🏫 College: <span>Fatec Taquaritinga</span> </h4>
 
+<h5>📗 Currently study Kotlin</h5>
+
 ## ⚡ Technologies
 Talk to me about
-- Backend development using **Java, Spring Boot**
-- Front-end development using **HTML, Javascript,ReactJS**
+- Backend development using **Java, Spring Boot, NodeJS**
+- Front-end development using **HTML, Javascript, ReactJS**
 - Mobile application development using **Android and React Native**
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ederfmatos&hide=["issues"]&show_icons=true)
