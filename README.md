@@ -2,9 +2,13 @@
 
 <img align='right' src='https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ederfmatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ederfmatos/)](https://www.linkedin.com/in/ederfmatos)
+</br>
+</br>
 
-[![Gmail Badge](https://img.shields.io/badge/-ederfmatos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederfmatos@gmail.com)](mailto:ederfmatos@gmail.com)
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/-ederfmatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ederfmatos/"/>
+  <img src="https://img.shields.io/badge/-ederfmatos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederfmatos@gmail.com"/>
+</div>
 
 <h4>👱 Fullname: <span>Eder Ferreira de Matos</span> </h4>
 <h4>🏙️ City: <span>Guariba SP</span></h4>
