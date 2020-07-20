@@ -6,10 +6,10 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ederfmatos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederfmatos@gmail.com)](mailto:ederfmatos@gmail.com)
 
-👱 #### Fullname: Eder Ferreira de Matos </br>
-🏙️ #### City: Guariba SP </br>
-💻 #### Work: Exactaworks </br>
-🏫 #### College: Fatec Taquaritinga </br>
+<h4>👱 Fullname: <span>Eder Ferreira de Matos</span> </h4>
+<h4>🏙️ City: <span>Guariba SP</span></h4>
+<h4>💻 Work: <span>Exactaworks</span> </h4>
+<h4>🏫 College: <span>Fatec Taquaritinga</span> </h4>
 
 ## ⚡ Technologies
 Talk to me about
