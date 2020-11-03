@@ -20,8 +20,6 @@
 <h4>💻 Work: <span>Exactaworks</span> </h4>
 <h4>🏫 College: <span>Fatec Taquaritinga</span> </h4>
 
-<h4>📗 Currently study Kotlin</h4>
-
 ## ⚡ Technologies
 Talk to me about
 - Backend development using **Java, Spring Boot, NodeJS**
