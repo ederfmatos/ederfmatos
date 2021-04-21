@@ -1,6 +1,6 @@
 <h2>Eder Matos 
 
-<img align='right' src='https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif' width='200"'>
 
 </br>
 </br>
@@ -15,15 +15,16 @@
   </a>
 </div>
 
-<h4>👱 Fullname: <span>Eder Ferreira de Matos</span> </h4>
-<h4>🏙️ City: <span>Guariba SP</span></h4>
-<h4>💻 Work: <span>Exactaworks</span> </h4>
-<h4>🏫 College: <span>Fatec Taquaritinga</span> </h4>
+<h4>👱 Who: <span>Eder Ferreira de Matos</span> </h4>
+<h4>🏙️ Where do you live: <span>Guariba SP</span></h4>
+<h4>💻 Where do you work: <span>Exactaworks</span> </h4>
+<h4>🏫 Study: <span>Fatec Taquaritinga</span> </h4>
 
 ## ⚡ Technologies
 Talk to me about
-- Backend development using **Java, Spring Boot, NodeJS**
-- Front-end development using **HTML, Javascript, ReactJS**
+- Backend development using **Java, Spring Boot, NodeJS, Kotlin**
+- Front-end development using **HTML, Javascript, ReactJS, NextJS**
 - Mobile application development using **Android and React Native**
+- AWS Services **Elastik Beanstalk, S3, EC2**
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ederfmatos&hide=["issues"]&show_icons=true)
