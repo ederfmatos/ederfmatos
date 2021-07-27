@@ -13,6 +13,14 @@
   <a href="mailto:ederfmatos@gmail.com/">
     <img src="https://img.shields.io/badge/-ederfmatos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederfmatos@gmail.com"/>
   </a>
+  
+  <a href="https://medium.com/@ederfmatos">
+    <img src="https://img.shields.io/badge/-Medium-gray?style=flat-square&logoColor=white"/>
+  </a>
+  
+  <a href="https://dev.to/ederfmatos">
+    <img src="https://img.shields.io/badge/-DevTo-blue?style=flat-square&logoColor=white"/>
+  </a>
 </div>
 
 <h4>👱 Who: <span>Eder Ferreira de Matos</span> </h4>
@@ -22,9 +30,9 @@
 
 ## ⚡ Technologies
 Talk to me about
-- Backend development using **Java, Spring Boot, NodeJS, Kotlin**
+- Backend development using **Java, Spring Boot, NodeJS, Kotlin, Serverless Framework**
 - Front-end development using **HTML, Javascript, ReactJS, NextJS**
-- Mobile application development using **Android and React Native**
+- Mobile application development using **Kotlin and React Native**
 - AWS Services **Elastik Beanstalk, S3, EC2**
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ederfmatos&hide=["issues"]&show_icons=true)
