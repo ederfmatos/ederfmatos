@@ -2,7 +2,7 @@
 
 ### Hello, I'm Eder Matos! 👋
 
-I'm a Senior Software Engineer at @exactaworks
+I'm a Senior Software Engineer at [@exactaworks](https://exactaworks.com.br/)
 
 ### Find me elsewhere 🌎
 
