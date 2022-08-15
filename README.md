@@ -1,38 +1,23 @@
-<h2>Eder Matos 
-
 <img align='right' src='https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif' width='200"'>
 
-</br>
-</br>
+### Hello, I'm Eder Matos! 👋
 
-<div style="display: flex;">
-  <a href="https://www.linkedin.com/in/ederfmatos/">
-    <img src="https://img.shields.io/badge/-ederfmatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ederfmatos/"/>
-  </a>
-  
-  <a href="mailto:ederfmatos@gmail.com/">
-    <img src="https://img.shields.io/badge/-ederfmatos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederfmatos@gmail.com"/>
-  </a>
-  
-  <a href="https://medium.com/@ederfmatos">
-    <img src="https://img.shields.io/badge/-Medium-gray?style=flat-square&logoColor=white"/>
-  </a>
-  
-  <a href="https://dev.to/ederfmatos">
-    <img src="https://img.shields.io/badge/-DevTo-blue?style=flat-square&logoColor=white"/>
-  </a>
-</div>
+I'm a Senior Software Engineer at @exactaworks
 
-<h4>👱 Who: <span>Eder Ferreira de Matos</span> </h4>
-<h4>🏙️ Where do you live: <span>Guariba SP</span></h4>
-<h4>💻 Where do you work: <span>Exactaworks</span> </h4>
-<h4>🏫 Study: <span>Fatec Taquaritinga</span> </h4>
+### Find me elsewhere 🌎
 
-## ⚡ Technologies
-Talk to me about
-- Backend development using **Java, Spring Boot, NodeJS, Kotlin, Serverless Framework**
-- Front-end development using **HTML, Javascript, ReactJS, NextJS**
-- Mobile application development using **Kotlin and React Native**
-- AWS Services **Elastik Beanstalk, S3, EC2**
+💼  [LinkedIn](https://www.linkedin.com/in/ederfmatos) <br>
+👩‍💻  [Medium](https://medium.com/@ederfmatos) <br>
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ederfmatos&hide=["issues"]&show_icons=true)
+### My technology Stack 👩‍💻
+
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+
+<br />
